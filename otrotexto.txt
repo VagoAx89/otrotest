@@ -1,0 +1,6 @@
+este es el ejemplo numero x 
+otro intento para descargar
+archivo .bin de algun servidor
+gratuito para ejecutar una 
+actualizacion automatica en 
+mi esp32
